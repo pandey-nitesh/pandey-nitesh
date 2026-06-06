@@ -33,18 +33,6 @@ const nitesh = {
 
 Software Engineer with **11 years** across healthcare, adtech, and ecommerce — specializing in **frontend platform modernization**, **full-stack product delivery**, and **distributed team leadership**. I care about turning legacy debt into reusable platforms and shipping work that moves real numbers.
 
----
-
-## 📊 Impact at a Glance
-
-| Metric | Result |
-| --- | --- |
-| 📉 HCP message misdelivery | **12% → 4%** (67% reduction) |
-| ⚡ P95 API response time | **20% faster** |
-| 🧪 Test flakiness (Cypress → Playwright) | **~50% → ~10%** |
-| 🛒 Holiday ecommerce campaign supported | **$10M+ in sales** |
-| 💰 Business savings (fax workflows + font licensing) | **$170K+ / year** |
-| 🚀 Ops Dash delivery (AI-assisted) | **12-month estimate → 4 months** |
 
 ---
 
