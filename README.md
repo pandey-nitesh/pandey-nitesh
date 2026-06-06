@@ -96,24 +96,6 @@ Software Engineer with **11 years** across healthcare, adtech, and ecommerce —
 
 ---
 
-## 📈 GitHub
-
-<div align="center">
-
-<a href="https://github.com/pandey-nitesh"><img src="https://img.shields.io/github/followers/pandey-nitesh?label=Followers&style=for-the-badge&color=E2725B&logo=github&logoColor=white" alt="Followers"></a>
-
-<br/><br/>
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pandey-nitesh&theme=default" alt="GitHub Stats" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandey-nitesh&theme=default" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandey-nitesh&hide_border=true&fire=E2725B&ring=E2725B&currStreakLabel=E2725B" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 🎓 Education
 
