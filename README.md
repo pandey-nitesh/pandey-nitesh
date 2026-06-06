@@ -2,7 +2,7 @@
 
 # Hi, I'm Nitesh Pandey 👋
 
-### Staff Software Engineer · Frontend Platform Modernization · Full-Stack Delivery
+### Staff Software Engineer · Platform Modernization · Full-Stack Delivery
 
 <p>
   <a href="https://nitesh.us"><img src="https://img.shields.io/badge/Portfolio-nitesh.us-E2725B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
