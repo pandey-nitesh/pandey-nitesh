@@ -7,7 +7,7 @@
 <p>
   <a href="https://nitesh.us"><img src="https://img.shields.io/badge/Portfolio-nitesh.us-E2725B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/nites"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:n@nitesh.us"><img src="https://img.shields.io/badge/Email-n@nitesh.us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:github@nitesh.us"><img src="https://img.shields.io/badge/Email-github@nitesh.us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Broomfield,%20CO-USA-2E2E2E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
