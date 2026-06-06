@@ -96,12 +96,16 @@ Software Engineer with **11 years** across healthcare, adtech, and ecommerce —
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandey-nitesh&show_icons=true&theme=default&hide_border=true&title_color=E2725B&icon_color=E2725B&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandey-nitesh&layout=compact&hide_border=true&title_color=E2725B&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/pandey-nitesh"><img src="https://img.shields.io/github/followers/pandey-nitesh?label=Followers&style=for-the-badge&color=E2725B&logo=github&logoColor=white" alt="Followers"></a>
+
+<br/><br/>
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pandey-nitesh&theme=default" alt="GitHub Stats" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandey-nitesh&theme=default" alt="Top Languages" />
 
 <br/>
 
