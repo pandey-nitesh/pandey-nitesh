@@ -25,13 +25,12 @@ const nitesh = {
   experience: "11+ years",
   domains: ["Healthcare", "AdTech", "Ecommerce"],
   focus: ["Frontend Platform Modernization", "Full-Stack Delivery", "Team Leadership"],
-  currentlyBuilding: "HCP Communication Management @ Phil, Inc.",
   leads: "Distributed / offshore engineering teams",
   philosophy: "Ship measurable impact, mentor relentlessly, keep it simple.",
 };
 ```
 
-Software Engineer with **11 years** across healthcare, adtech, and ecommerce — specializing in **frontend platform modernization**, **full-stack product delivery**, and **distributed team leadership**. I care about turning legacy debt into reusable platforms and shipping work that moves real numbers.
+Software Engineer with **11+ years** across healthcare, adtech, and ecommerce — specializing in **platform modernization**, **full-stack product delivery**, and **distributed team leadership**. I care about turning legacy debt into reusable platforms and shipping work that moves real numbers.
 
 
 ---
